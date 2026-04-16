@@ -286,3 +286,7 @@ body{
 }
 .footer-l{font-size:11px;color:var(--mint);letter-spacing:.06em;}
 .footer-r{font-size:11px;color:#9FE1CB;}
+
+#afp{
+  color: #5DCAA5
+}
